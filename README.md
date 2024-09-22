@@ -1,6 +1,6 @@
 # Sales Dashboard with Excel - Data Analyst Project 📊
 # Overview
-This project focuses on analyzing sales data from a US-based company, covering the period from 2014 to 2017. Using Excel, we have created an interactive dashboard that provides in-depth insights into the company’s sales performance across different product categories and US states.
+This project focuses on analyzing sales data from a US-based company, covering the period from 2014 to 2017. Using Excel, I have created an interactive dashboard that provides in-depth insights into the company’s sales performance across different product categories and US states.
 
 # Project Features
 Interactive Dashboard: The Excel-based dashboard allows users to filter and visualize sales data across various dimensions, providing a comprehensive view of performance.
