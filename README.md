@@ -27,3 +27,7 @@ Profit Margin
 Top-performing Product Categories: Certain product categories consistently delivered higher sales and profitability, while others showed more seasonal trends.
 Regional Performance: A few states significantly outperformed others, which could guide future sales and marketing strategies.
 Year-over-Year Growth: Despite some fluctuations, overall sales grew consistently over the four years, with specific product categories and regions driving the bulk of this growth.
+
+# Dashboard
+![Screenshot 2024-09-22 132953](https://github.com/user-attachments/assets/e9c75429-af51-4eca-b2b0-4608f8704582)
+
